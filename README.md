@@ -1,1 +1,1 @@
-# sport-celebrity-image-classification
+# Image-Classification
